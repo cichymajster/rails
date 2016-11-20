@@ -1,0 +1,2 @@
+rails new xxx 
+rails generate controller xxx xxx
